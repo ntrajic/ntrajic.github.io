@@ -1,3 +1,6 @@
 [submodule "boc"]
 	path = boc
 	url = https://github.com/ntrajic/boc
+[submodule "gq4boc"]
+	path = gq4boc
+	url = https://github.com/ntrajic/gq4boc

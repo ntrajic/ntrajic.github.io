@@ -4,3 +4,6 @@
 [submodule "gq4boc"]
 	path = gq4boc
 	url = https://github.com/ntrajic/gq4boc
+[submodule "vue-niege"]
+	path = vue-niege
+	url = https://github.com/ntrajic/vue-niege
